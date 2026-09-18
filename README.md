@@ -10,7 +10,7 @@ a ten jakiś __też__
 	</body>
 </html>
 ```
->teraz sobie pocytuje ale że żadnych nie znam to będzie to
+>teraz sobie pocytuje ale że żadnych nie znam to będzie to><<
 ##tu jakas tabelka
 |Iphone | Android |
 |-------|---------|
