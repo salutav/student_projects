@@ -10,7 +10,6 @@ a ten jakiś __też__
 	</body>
 </html>
 ```
->teraz sobie pocytuje ale że żadnych nie znam to będzie to><<
 ##tu jakas tabelka
 |Iphone | Android |
 |-------|---------|
@@ -28,3 +27,4 @@ tu obrazek
 ![cos poszlo nie tak](https://tiny.pl/3ms1p2py4)
 @salutav 
 
+>tu cytat 
