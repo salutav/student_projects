@@ -15,6 +15,8 @@ a ten jakiś __też__
 |-------|---------|
 |Fajnie | Bieda   |
 |Po co? | Tanio   |
+-------------------
+
 ###tera jakaś lista zadań
 [ ]to nie zrobione
 [x]a to zrobione
